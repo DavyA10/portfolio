@@ -18,7 +18,7 @@
   
   .navbar-light .navbar-nav .nav-link:hover,
   .navbar-light .navbar-nav .nav-link.active {
-    color: #ec2f0d;
+    color: #ce280b;
   }
   
   @media (max-width: 991.98px) {
